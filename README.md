@@ -1,3 +1,7 @@
+> **Nota de inventario MiruRecetas (20/10/2026):** este repositorio es público y contiene componentes de OpenCesta (incluidos `core/`, `web/`, políticas y README). Su visibilidad y procedencia deben revisarse por separado antes de una futura reorganización de repositorios de MiruRecetas; la nota no cambia licencias, datos, workflows ni relaciones con el proyecto de origen. El motor de costes de MiruRecetas está en otro repositorio privado (`motor-precios`).
+
+---
+
 # OpenCesta
 
 **Dataset público y con histórico de los precios de los supermercados españoles, construido con adaptadores mantenibles — no con scrapers frágiles.**
