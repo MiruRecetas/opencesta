@@ -1,3 +1,9 @@
+> **Ámbito del fork · 21/10/2026.** Las capacidades, releases y sitio descritos en el README original pertenecen a upstream ruvelro/opencesta; no prueban una explotación propia activa de MiruRecetas. Código MIT y dataset ODbL se distinguen. No habilitar ni despachar extracción, releases o Pages. [Estado documental y triggers](docs/SINCRONIZACION-DOCUMENTAL-2026-10-21.md).
+
+> **Reconciliación documental · 21/10/2026.** Las fuentes del proyecto «Menú anual» se han consolidado en 18 archivos. La documentación AS IS describe lo implementado; TO BE sigue siendo un plan. El histórico se conserva y no debe interpretarse como instrucciones actuales incompatibles. [Estado y precedencia](docs/SINCRONIZACION-DOCUMENTAL-2026-10-21.md). Esta revisión modifica solo Markdown; no ejecuta migración ni amplía permisos.
+
+---
+
 > **Nota de inventario MiruRecetas (20/10/2026):** este repositorio es público y contiene componentes de OpenCesta (incluidos `core/`, `web/`, políticas y README). Su visibilidad y procedencia deben revisarse por separado antes de una futura reorganización de repositorios de MiruRecetas; la nota no cambia licencias, datos, workflows ni relaciones con el proyecto de origen. El motor de costes de MiruRecetas está en otro repositorio privado (`motor-precios`).
 
 ---
